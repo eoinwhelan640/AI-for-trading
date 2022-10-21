@@ -1,0 +1,3 @@
+BARRA data is massive, don't unzip unless going to use it. 
+The pickle files are the processed raw files, think only need these for the notebook. The data frame or other structures are the memory heavy thinks, likley don't need em but retain just in case.
+Could trial unzipping, copying pickles, then rezipping full folder content except copy pickles, and try use them for project That way have full file + raw pickles
